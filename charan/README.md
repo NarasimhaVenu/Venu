@@ -23,3 +23,4 @@ Smart Fan A remote control designed for use with a ceiling fan contains a transm
 
 #### Objective:
 To implement a Smart Switch for Fridge, Fan, Light Bulb.
+QWEDRJNHQWDQWDE
