@@ -77,3 +77,10 @@ To implement a Smart Switch for Fridge, Fan, Light Bulb.
 |ID|status|Description|
 |:----:|:---:|:----:|
 |LLR_01|user can see the status of the bulb/fan/Air conditioner |if press switch -4|
+
+This branch has conflicts that must be resolved
+
+ASDFGHJKL;
+ASDFGHJKL
+ASDFGHJKL
+ASDFGHJKL;'
