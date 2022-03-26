@@ -22,3 +22,34 @@ Smart Fan A remote control designed for use with a ceiling fan contains a transm
 
 #### Objective:
 To implement a Smart Switch for Fridge, Fan, Light Bulb.
+
+
+
+# Low Level Requirements
+
+## Low Level Requiremets for HLR_01
+
+|ID|status|Description|
+|:----:|:---:|:----:|
+|LLR_01|Light glow| if the user press switch "1"|
+|LLR_02|Light off |if the user press switch "0" |
+
+## Low Level Requiremets for HLR_02
+
+|ID|status|Description|
+|:----:|:---:|:----:|
+|LLR_01|Fan ON| if the user press switch "2"|
+|LLR_02|Fan OFF| if the user press switch "0"|
+
+## Low Level Requiremets for HLR_03
+
+|ID|status|Description|
+|:----:|:---:|:----:|
+|LLR_01|Air conditioner ON |if the user press switch "3"|
+|LLR_02|Air conditioner OFF|if the user press switch "0"|
+
+##  Low Level Requiremets for HLR_03
+
+|ID|status|Description|
+|:----:|:---:|:----:|
+|LLR_01|user can see the status of the bulb/fan/Air conditioner |if press switch -4|
